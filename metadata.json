@@ -1,0 +1,8 @@
+{
+  "name": "Sup Project Manager",
+  "description": "Free, zero-account project and feature ideation manager. Brainstorm ideal app features, author rich markdown specifications, and step through features sequentially with live progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
